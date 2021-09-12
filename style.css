@@ -16,12 +16,13 @@ body{
       oveflow:auto;
    }
    h2{
-      float:rigth:
+      float:right:
       border:1px solid black;
       color:dark green;
       font-size:125%;
-      margin-top:auto;
-      margin-bottom:auto;
+      padding:5px 20px 5px 20px
+      margin-top:0;
+      margin-bottom:20px;
     }
     .row{
         width=100%
