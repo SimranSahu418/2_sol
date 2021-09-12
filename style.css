@@ -24,6 +24,16 @@ body{
       margin-top:0;
       margin-bottom:20px;
     }
+    p{
+        border:1px solid black;
+        background-color: aqua;
+        width:90%;
+        heigth:200px;
+        margin-rigth:auto;
+        margin-left:auto;
+        font-family:Helevetica;
+        color:black
+   
     .row{
         width=100%
     }
