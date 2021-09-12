@@ -1,5 +1,4 @@
-body{
-   background:ligth-red;
+
     *{
         box-sizing:border-box;
        font-family:Cochin;
@@ -29,10 +28,9 @@ body{
         background-color: aqua;
         width:90%;
         heigth:200px;
-        margin-rigth:auto;
-        margin-left:auto;
         font-family:Helevetica;
         color:black
+     }
    
     .row{
         width=100%
@@ -165,6 +163,4 @@ body{
         .col-sm-12{
             width:100%
         }
-    }
-        
-}
+       }
