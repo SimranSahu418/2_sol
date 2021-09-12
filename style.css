@@ -15,12 +15,12 @@
       oveflow:auto;
    }
    h2{
-      float:right:
+      float:right;
       border:1px solid black;
       color:dark green;
       font-size:125%;
       padding:5px 20px 5px 20px;
-      margin-top:2px;
+      margin-top:0px;
       margin-bottom:20px;
     }
     p{
@@ -32,7 +32,6 @@
 }
 #Chemistry{
    background:grey;
-   position:relative;
 }
 #Biology{
    background:pink;
